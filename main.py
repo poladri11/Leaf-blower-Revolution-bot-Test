@@ -45,13 +45,18 @@ async def on_ready():
 async def floor(interaction: discord.Interaction, floor: int):
     """Floor DMG calculator!"""
     basedmg = 154000000000
-    for x in range(floor):
-        if x == 0:
-            continue
-        else:
-            basedmg = basedmg*2
 
-    await interaction.response.send_message("Damage needed for floor: **{}**\n**{:.2e} SlapDMG**".format(floor, basedmg), ephemeral=True)
+    if floor > 987:
+        await interaction.response.send_message("Sorry!\nThe bot can't handle numbers that high, so please, use a number equal or lower than 987", ephemeral=True)
+
+    else:
+        for x in range(floor):
+            if x == 0:
+                continue
+            else:
+                basedmg = basedmg*2
+
+        await interaction.response.send_message("Damage needed for floor: **{}**\n**{:.2e} SlapDMG**".format(floor, basedmg), ephemeral=True)
 
 
 #Bosses information
