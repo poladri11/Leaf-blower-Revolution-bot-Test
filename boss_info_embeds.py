@@ -24,7 +24,7 @@ boss_data = [{
 	"health":"1e30",
 	"drop":"<:cosmicessence:1028011185670475876> x5 <:earthessence:1028011187142664202> x5\n<:leafessence:1028011188568739870> x5 <:wateressence:1028011190045130772> x5\n222 curses",
 	"dmg":"2e25 Blowing DMG + Wind + Gravity Ball\n1e27 Blowing DMG AFK",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1028009480392278036/witch_2.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840867718090782/witch.png",
 	"type":"Regular"
 },
 {
@@ -33,7 +33,7 @@ boss_data = [{
 	"health":"3e41",
 	"drop":"<:ancient:1029137273779925022> > 1e9\n<:shard:1029136850339758091> 3-6\n0-1 <:commonrelic:1029136848989208667> / <:uncommonrelic:1029136851707101264> Relic",
 	"dmg":"2.2e41 Slap Damage\n4.5e38 Blowing DMG + Gravity Ball",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029141769851502612/centaur.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840865004359742/centaur.png",
 	"type":"Regular"
 },
 {
@@ -42,7 +42,7 @@ boss_data = [{
 	"location":"Vilewood Cemetery",
 	"health":"3e44",
 	"dmg":"2.2e44 Slap Damage",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165678416105482/vilecreature.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840867336388658/vilecreature.png",
 	"type":"Regular"
 },
 {
@@ -51,7 +51,7 @@ boss_data = [{
 	"location":"The Lone Tree",
 	"health":"3e49",
 	"dmg":"2.2e49 Slap Damage",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165676746784798/airelemental.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840864232624138/airelemental.png",
 	"type":"Regular"
 },
 {
@@ -60,7 +60,7 @@ boss_data = [{
 	"location":"Spark Bubble",
 	"health":"1e57",
 	"dmg":"1.8e56 Slap Damage",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165677434638428/sparkbubble.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866120044665/sparkbubble.png",
 	"type":"Exotic"
 },
 {
@@ -69,7 +69,7 @@ boss_data = [{
 	"location":"Blue Planet Edge",
 	"health":"1e68",
 	"dmg":"7.15e66 Slap Damage\nWeak against Exotic, Gold and Platinum DMG type",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165678097346560/terror.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866946338907/terror.png",
 	"type":"Ice"
 },
 {
@@ -78,7 +78,7 @@ boss_data = [{
 	"location":"Green Planet Edge",
 	"health":"1e68",
 	"dmg":"7.15e66 Slap Damage\nWeak against Lava and Exotic DMG type",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165678097346560/terror.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866946338907/terror.png",
 	"type":"Platinum"
 },
 {
@@ -87,7 +87,7 @@ boss_data = [{
 	"location":"Red Planet Edge",
 	"health":"1e68",
 	"dmg":"7.15e66 Slap Damage\nWeak against Ice and Cosmic DMG type",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165678097346560/terror.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866946338907/terror.png",
 	"type":"Lava"
 },
 {
@@ -96,7 +96,7 @@ boss_data = [{
 	"location":"Purple Planet Edge",
 	"health":"1e68",
 	"dmg":"7.15e66 Slap Damage\nWeak against Cosmic and Lava DMG type",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165678097346560/terror.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866946338907/terror.png",
 	"type":"Gold"
 },
 {
@@ -105,7 +105,7 @@ boss_data = [{
 	"location":"Black Planet Edge",
 	"health":"1e73",
 	"dmg":"7.15e71 Slap Damage\nWeak against Platinum, Ice and Lava DMG type",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165677761806386/superterror.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840866547859496/superterror.png",
 	"type":"Cosmic"
 },
 {
@@ -114,7 +114,7 @@ boss_data = [{
 	"location":"Energy Singularity",
 	"health":"1e80",
 	"dmg":"7.15e78 Slap Damage",
-	"thumbnail":"https://cdn.discordapp.com/attachments/751835340482019458/1029165677073936456/energyguard.png",
+	"thumbnail":"https://cdn.discordapp.com/attachments/1029840819827515402/1029840865503477770/energyguard.png",
 	"type":"Cursed"
 }
 ]
